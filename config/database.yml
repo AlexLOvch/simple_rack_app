@@ -1,0 +1,6 @@
+development:
+  host: 'localhost'
+  adapter: 'postgresql'
+  database: 'user_app'
+  username: 'postgres'
+  password: 'postgres'
